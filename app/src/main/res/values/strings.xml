@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">bai_Tap_Buoi4</string>
+    <string name="string_click_to_load">Click để tải</string>
+    <string name="string_getting_json_title">Nhận tiêu đề json</string>
+    <string name="string_getting_json_message">Nhận tin nhắn json</string>
+    <string name="string_some_thing_wrong">Có gì đó không đúng!</string>
+    <string name="string_internet_connection_not_available">Lỗi kết nối Internet!</string>
+</resources>
